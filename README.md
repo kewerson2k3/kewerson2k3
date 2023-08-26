@@ -3,7 +3,7 @@
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=4000&pause=10&color=F78015&center=true&width=700&lines=Ou%C3%A7a+conselhos+e+aceite+instru%C3%A7%C3%B5es%2C+e+acabar%C3%A1+sendo+s%C3%A1bio.;Prov%C3%A9rbios+19%3A20" alt="Typing SVG" />
   </div>
 
-  <img align="right" src="https://media.discordapp.net/attachments/1051892916693516338/1088293223157465088/0BB56328-56E7-454C-A451-E2828C6B875A.jpg?width=526&height=701" height="270px">
+  
 
 <b align="left">Opa, deixa eu me apresentar:</b>
 
@@ -45,8 +45,8 @@
   <samp>
   <div align="center">
     <p><b>Profile Views: 👀</b></p>
-  <img height ="20px" src="https://profile-counter.glitch.me/{glauber2k2}/count.svg"> 
- <!--<img src="https://komarev.com/ghpvc/?username=glauber2k2&style=flat-square&color=1a1b27&label=profile+views"> -->
+  <img height ="20px" src="https://profile-counter.glitch.me/{kewerson2k3}/count.svg"> 
+ 
   </div> 
 </samp>
 </details>
