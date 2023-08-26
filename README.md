@@ -2,10 +2,13 @@
   <div id="top" align ="center" >
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=4000&pause=10&color=F78015&center=true&width=700&lines=Ou%C3%A7a+conselhos+e+aceite+instru%C3%A7%C3%B5es%2C+e+acabar%C3%A1+sendo+s%C3%A1bio.;Prov%C3%A9rbios+19%3A20" alt="Typing SVG" />
   </div>
-
+ <br>
+ <br>
   
 
 <b align="left">Opa, deixa eu me apresentar:</b>
+ <br>
+ 
 
 <p align="left">Me chamo Kewerson Pereira, natural do Rio de Janeiro - RJ, tenho 28 anos, e atualmente sou formado em Sistemas da Informação, e estou em desenvolvimento meus conhecimentos em Python para ingressar na área.</p>
 <h3>tenho conhecimento em:</h3>
@@ -20,6 +23,8 @@
   <br>
   <div align="center">
   <h3><b>contacte-me:</b></h3>
+     <br>
+
   <a href="https://www.linkedin.com/in/kewerson-pereira/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-linkedin-orange.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
@@ -32,7 +37,8 @@
   </a>
 
   
-  
+   <br>
+ <br>
  
  <details>
   <summary> <b>📊 GitHub Stats </b><i >(ver mais)</i> </summary>
@@ -50,5 +56,6 @@
   </div> 
 </samp>
 </details>
-
+ <br>
+ <br>
 <img align="center" src="https://media.discordapp.net/attachments/1051892916693516338/1090979283167617044/00019-2356181945.png" width="100%" height="250px" />
