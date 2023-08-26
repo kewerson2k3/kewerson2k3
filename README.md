@@ -8,9 +8,11 @@
 
 <b align="left">Opa, deixa eu me apresentar:</b>
  <br>
- 
+ <br>
 
 <p align="left">Me chamo Kewerson Pereira, natural do Rio de Janeiro - RJ, tenho 28 anos, e atualmente sou formado em Sistemas da Informação, e estou em desenvolvimento meus conhecimentos em Python para ingressar na área.</p>
+ <br>
+ <br>
 <h3>tenho conhecimento em:</h3>
 <img align="center" alt="gb-py" height="35" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 <img align="center" alt="gb-js" height="35" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
@@ -36,8 +38,9 @@
   <img src="https://img.shields.io/badge/-instagram-orange.svg?style=for-the-badge&logo=Instagram&logoColor=white">
   </a>
 
-  
-   <br>
+ <br>
+ 
+ <br>
  <br>
  
  <details>
